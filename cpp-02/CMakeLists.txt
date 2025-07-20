@@ -1,1 +1,0 @@
-add_executable(cpp-02 cpp-02.cpp)
